@@ -10,8 +10,11 @@ This project leverages deep learning to automate plant disease detection using l
 
 Key Features:
 ✅ High Accuracy: Achieves over 85% test accuracy in disease classification.
+
 ✅ Scalable: Can be extended to support more plant species and diseases.
+
 ✅ User-Friendly: Simple interface for farmers and agronomists to upload and analyze images.
+
 ✅ Open-Source: Encourages collaboration for improving agricultural AI solutions.
 
 
@@ -40,14 +43,16 @@ cd Plant_Disease_Prediction
 
 
 📌 Results
+
 Model Accuracy:
 📈 Training Accuracy: 97%
-📉 Test Accuracy: 87%
+📉 Test Accuracy: 88%
 
 
 [💡 How to Use](#-how-to-use)
 - Run python main.py 
 
 🤝 Contributing
+
 Contributions are welcome! If you find any issues, feel free to open an issue or submit a pull requests
 
